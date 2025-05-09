@@ -41,6 +41,3 @@
     </ul>
     <p>It’s more than just another tap game. It’s an oddly therapeutic, weirdly hilarious, and strangely strategic ride on the back of a feathered warrior. So if you're ready to embrace the chaos, unlock some outrageous skins, and see just how far your fingers can take you—<strong>Chicken Jockey Clicker</strong> is ready when you are.</p>
   </section>
-
-</body>
-</html>
